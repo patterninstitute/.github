@@ -1,5 +1,10 @@
 *
 */
-!README.md
+# Seemingly we do need this set of three
+# declarations for not ignore profile/README.md
+!profile/
+profile/*
+!profile/README.md
+
 !.gitignore
 
